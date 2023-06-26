@@ -73,7 +73,7 @@ For mouse middle button scroll the script records:
   - (0, 1) = Up
   - (0, -1) = Down
 
-For cursor move withou any mouse buttons being pressed the script records:
+For cursor move without any mouse buttons being pressed the script records:
 
 - Screen coordinates passed
   - Only every 30th coordinate passed is recorded
