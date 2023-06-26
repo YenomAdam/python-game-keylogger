@@ -1,6 +1,6 @@
 # Python Keylogger
 
-Key logger made with python. Simple script designed for recording user inputs primarily in video games and other windows applications.
+Key logger made with python. Simple script designed for recording user inputs primarily inside windows os video games.
 
 Original purpose of this script is for gathering information on how should game bots simulate user inputs so that they avoid pattern recognition.
 
