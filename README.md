@@ -45,7 +45,7 @@ py main.py
 
 # Script output
 
-Script appends to a file in `*..\output\YYYY-MM-DD.jsonl*`
+Script appends to a file in `..\output\YYYY-MM-DD.jsonl`
 
 For any key press the script records:
 
